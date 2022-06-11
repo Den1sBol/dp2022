@@ -1,5 +1,0 @@
-CREATE TABLE "shirts" (
-	"id" serial PRIMARY KEY,
-	"name" varchar[50],
-	"size" int
-);
